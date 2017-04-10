@@ -35,7 +35,7 @@ def DalitsMain:
 	def ManualScavengingMain:
 		Unconstitutional- 2 Lakhs still present in 21st century Yet no police complaint registered in country. #Law Implementation
 	def ReservationsMain:
-		#PSIRMain:
+		#PSIR:
 		Reasons:
 			Equality tool: To level historical inequalities and injustice
 		Reasons for opposition:
@@ -90,6 +90,9 @@ def TribalsMain:
 	
 	
 def WomenMain:
+	Issues:
+	Public Safety : Acid attacks, Rapes
+	Inheritance Rights
 	Female Feticide
 	Gender Equality
 	Nutrition
@@ -97,6 +100,9 @@ def WomenMain:
 	Labor Force Participation Rate
 	Marriage Choice
 	Dowry
+	Exclusion from public spaces:
+		Women accompanied to shopping, doctors
+		Sick children brought to doctor late- Had to wait till husband come home
 	Violence
 		Last to eat, Less to Eat, Less likely to survive infancy, If they do- Less likely to get education- To work outside- 
 		To take imp decisions of her own life- Leave about decision in family, LL to have Bank account.
@@ -126,6 +132,7 @@ def WomenMain:
 		Men protesting about misuse of laws!? 
 			Nirbhaya, Domestic Violence Act- speaking from a previliged position? #getmain
 		Make men part of these initiatives and dialogues
+		#Gender sensitive classrooms: NCERT- National Curriculum Framework- with Gender sensitive texts replacing gender stereotypes
 	How successful are these initiatives? #getmain
 		
 			
@@ -212,6 +219,14 @@ def WomenMain:
 		Side effects etc.
 		Quality control and availability- Stress needed.
 def ChildrenMain:
+	Programs:
+		IGMSY: IG Matritva Sahyog Yojana: 6000 for those not covered by any other maternity scheme from formal sector
+		JSY: Incentive for Institutional Delivery
+		ICDS: Anganwadi
+		MDMS: Mid day meal schemes:
+		ES claims: Investments on MOTHER AND CHILD- High ROI- But faced by budget cuts, Aadhar made mandatory- excludes few
+	Success:
+		Institutional deliveries: 39% in 2005 to 79% in 2015 -NFHS
 	def MissingChildrenMain:
 		60,000 children / year
 		Reasons:
@@ -247,7 +262,12 @@ def DisabilitiesMain: , DisabledMain
 		Empathy sensitization Socio Cultural Sensitivity in society, relatives, legislators
 		Unique ID
 		Cross disabilities group- Consulation
-		
+	Mental Healthcare:
+		MentalHealthcareBill
+		Suicide no crime
+		Mental Health care as right
+		Advanced directive provision for adults : How they want to be treated in future
+	NIHANS: Raising volunteer corps from all walks of life- Teachers, Docs, Engineers #Innovation
 		
 		
 def Oldmain:
@@ -280,6 +300,19 @@ def TransgendersMain:
 	
 			
 def GlobalizationMain:
+def HatecrimeMain:
+	Attacks on Africans:
+	Reasons:
+		Cultural insensitivity
+		Stereotyping
+		Rumors
+	Issues:
+		Racial abuse, discrimination
+		Charging higher rents, rides
+	Police must be sensible
+	Confidence building- Exchanges, interactions : Involve them in Swach Bharat, Help Africans by Indians.
+	Artists and Intellectuals.
+	School curriculum: Integrate in to lessons. for future gen
 def MediaMain:
 	FakeNews: #Pak Minister threatens Israel with Nuke believing Fake News
 	#PostTruth Era
@@ -296,8 +329,24 @@ def MediaMain:
 		# Provisions against fakenews can become muzzles on opinion and free speech
 		Definition of fakenews subjective
 		Humour related fakenews
-		
-		
+	#Facebook and Google : News Integrity Initiative
+def HDIMain:
+	HumanDevelopmentMain:
+	India slipped to 131 from 130
+		SL and Maldives ahead
+	South Asia:
+		Home to > 50% of world's multi dimensional poverty
+		Spends 1.6% GDP on public health- India spends 1.4% :|
+	Commended
+		Reservation
+		MNREGA: Prime example of social protection with employment
+		RTE, RTI, NFSA
+		MKSS:for popularizing social audits #CSO
+	Fiscal space improved by strong economic growth- should fund universal health, Education: Indian answer to 131 rank in HDI should be this
+	Important but not captured:
+		Development of state of democracy
+		Rule of Law
+		Access to Justice
 def SocialMeadiaMain:
 	National Social Media Policy- Bluprint prepared by MHA
 		ISIS Recruitment
@@ -362,6 +411,10 @@ def BillsMain:
 			Right to Equality
 	Enemy properties Bill:
 		No succession applies to enemy properties
+	Finance Bill:
+		Section 132 of IT act 1961: Changed -Can provisionally seize anything during a raid
+		IT officers can raid properties where charities operate
+		Companies Act: No cap on donations to parties, Any company can donate: Earlier firm atleast 3 years old and 7.5% net profit as cap, Board resolution for donation mandatory
 		
 			
 			
@@ -379,7 +432,8 @@ def SecurityMain:
 				Then train?
 				Risk of being poached by corporates
 				Rigid pay and promotion structure cannot attract talent
-				
+		Laws:
+			No law making security breach public. 
 	What is Encryption?
 	def QuantumCryptography:
 		What? Use of Physical properties of Photons than traditional Mathematics
@@ -389,6 +443,11 @@ def SecurityMain:
 	def RadicalizationMain:
 		Reasons:
 		Education: If lack of education? Keral is hotspot in India: Literacy is helping!: #EducationVsLiteracy #News
+	def PelletGunsMain:
+		SC: "We are a welfare state, State must try to protect all while harming none"
+		Issue: Security of Individuals and Security of Security personnels
+		Freedom of Expression, Protest
+		Moral of forces
 def FreebiesMain:
 	MDM: Access to Education
 	Amma Canteens: City's Inclusiveness, Income Effect, SHGs and Labour
@@ -506,7 +565,29 @@ def ElectoralReforms:
 			#NOTA success
 		High NOTA in SC/ST areas: prejudice against reservations to SC/ST's
 		High NOTA where INC and BJP are main rivals: Displeasure against both mainstream parties
+	def EVMMain:
+		Tampering allegations:
+		Technical safeguards:
+			Non networkable
+			One time programmable- Software once fused cannot be altered.
+			Presiding Officer: Trigger enabled
+		Procedural Safeguards:
+			Checks by representatives. Random 5% checks, Mock polls
+			Order of contestants varies, Multi state differences.
+			Randomized allocation
+		VVPAT:Voter Verifiable Audit Trail- Paper receipt to voter by 2019
+		Benefits:
+			No Invalid votes: Before invalid votes are significant compared to winning margins
+		
 def OptionalMAIN:
+def TheoryMain:
+Rawls theory of Justice:
+	1st principle : Each person is equally entitled to basic liberties and rights
+	2nd principle: Difference principle: Inequalities are legitimate as long as they are designed to yield max benefit for least advantaged members
+	1st enjoys priority over 2nd
+def PoliticsMain:
+	Machiavelli: Purpose of politics as maximising effectiveness of action to govern better
+	McIntyre and Gandhi: Politics as a means for internal excellence; means to achieve goods of excellence for all
 def DiasporaMain:
 	#Madeshi
 	#SriLankan Tamils
@@ -557,6 +638,15 @@ def PostIndependentPolityMain:
 	Christophe Jaffrelot: Silent revolution. Emergence of strong mulitfarous regional parties in place of one party hegemony- 
 		Mainly due to lower caste assertion- Post Mandal reforms in politics
 		Mandal reforms? #Getmain
+		
+	Bahujan Ideology
+	UP elections: Caste equations and Indian politics
+	
+	Harmonizing Phule Ambedkar thought with Hindutva - RSS strategy?
+def CriminalizationMain:
+	More % of criminals MP's MLA's Candidates
+	Criminals > greater chance of winning
+	Rationale?: Voters for doers- Tough guys who can get things done.
 def InstitutionsMain:
 def GovernorMain:
 	Composite floor test vs floor test difference #getmain
@@ -594,7 +684,13 @@ def GlobalizationMain:
 	MNC challenges
 		IT gaints vs Local laws
 		Indian PCPND act: Google ads - Sex selection
-		
+def SecurityMain:
+	Changing Security Paradigms:
+	Power ful nuclear weapon state brought to its knees by 9/11 attack
+	Nations can be destroyed through Laptops and Mobile phones
+	Terrorism became greater threat then nuclear weapons.
+	Unpredictable results of Nukes- > Not viable security options
+PINKTIDE #Getmain
 ##################################################################################################
 JudiciaryMAIN:
 ##################################################################################################
@@ -691,6 +787,11 @@ def JudicialActivismMain:
 			#FIFA overhaul
 				Votes to smaller countries?
 			#Sports Ministry Chastisising IOA- Appointements
+		#HighwayLiquorBan:
+			Executive domain:
+			Spider web: If one string is pulled- many other inter connected strings comes under tension- complex
+				State revenues, Personnel to enforce, Innovative solutions of mazes, denotifying state highways to urban roads, district roads.
+				Denotification ->Roads to local bodies -> which doesn't have resources to maintain them.
 			
 	SLP:
 		~35,000 cases- 40% granted
@@ -713,6 +814,25 @@ def SpecialCourtsMain:
 	POA- SC-ST
 	National Security
 	NIA: National Investigation Agency Act
+def PendencyMain:
+	Reasons:
+	Lawyer strikes: Reasons from Blast in Pak school to Poetry gatherings
+		Arrests judiciary functioning
+	Solutions:
+		Increasing Judicial manpower
+		NCMS: National Court Management System
+	Wayforward:
+		States should cooperate with HC's to clear appointments faster
+	#Judicial delay and its impact
+		Perils:
+		Justice delayed it justice denied
+		Delays in forming constitutional benches.
+		Aadhar and Right to privacy question
+		Priorotization of cases?
+		KM Munshi: It is of highest importance to decide whether a law is valid or not in the earliest. Any uncertainity means greater hardships to people.
+			Serving sentence, penalties, loss of constitutional rights all because of an invalid law.
+		Cannot be undone: example demonetization, Aadhar
+		CJI: Sole SC roster master: Decides on curation of benches, priorotization
 def FundamentalRightsMain:
 	# Animal Welfare Board of India vs Nagaraja
 	SC: Extended Article 21 to Animals
@@ -763,12 +883,23 @@ def FundamentalRightsMain:
 			When enabling environment for free speech gets vitiated it undermines democracy
 		HECKLER'S VETO:
 			Is a process by which socially powerful group can shut down critical or inconvenient speech threatening with public disorder or disturbance
+		ISSUES:
+			What is reasonable restrictions?
+			State control: on free flow of information, thoughts, creativity- Morality- What is good for citizens.- Might not be the best.
+			Bans at the behest of fringe groups deprive majority of people Right to see, enjoy good cinema, literature or art
+			Information era: Bans are faracial
+			Even our national leaders are criticized. Aren't we matured enough to take criticism in our stride forward?
+		Bans: on grounds of:
+			Hurts pride of our people
+			agaisnt Indian culture ethos, sensibilities
+			Hurts religious sentiments of community
 			
 ##################################################################################################
 FederalismMAIN
 ##################################################################################################
 World's largest democracy with huge diversity: Political Power Dispersion is must
 	#Challenge faced by INC: No strong regional leaders
+State Center cooperation, Reduction in regional inequalities : Common points for development, Schemes.
 def DivergenceMain:
 	India - Incomes increasing but gaps among states diverging
 		ROW, China, Asia gaps has narrowed with development
@@ -873,6 +1004,14 @@ def SrilankaMain:
 	Power Plant
 	Triconamalee
 	Pearls of Strings
+	Internalization of SL:
+		UNHRC role:
+		SL wants:
+		Extension to SL for two years to fulfill its accountability
+		No foreing Judges
+		Undue attention to SL while Syrian crisis, Refugee crisis, Nationalism on rise.
+		Internalization impact: Reform drive should come from citizenry- Foreign intervention -> Splits
+			Tamils for Interventions, Sinhalese parties rallying by promsing defending SL on international forums
 	def TamilMain:
 		13 th amendment
 		Devolution
@@ -949,6 +1088,9 @@ def ChinaMain:
 	#China turning to aggressive nationalism with economic slowdown- Xi Jinping as core leader
 		Rise of protectionism in west, Right wing- Against China- Factory of world
 		Now China may impose more on regional markets, ASEAN, Central Asia, ASEAN more than before?
+	#APEC: Theme is connectivity: OBOR, INSTC, Ports, BCIM, IMT,CPEC
+	def OBORMain:
+		Afghan, SL, Maldives, Bangladesh joined.  Nepal to join. : India is alone here?
 	def CPECMAIN:
 	def SilkRouteMain:
 		Soft Borders- Kashmir as node #CPEC advantages
@@ -974,7 +1116,8 @@ def PSIRMAIN:
 		USA military complex- Weapons focussed on state actors: Missiles, Advanced fighters
 		But now focus shifted to weapons for containing non state actors #Make in India opportunity #Israel advantages
 		#Undercurrent for USA policy directions? Defence industry interests?
-		
+
+	
 def USAMAIN:
 	Trump Factor:
 		Foreign Policy: 
@@ -987,12 +1130,16 @@ def USAMAIN:
 			Allies to pay more for their defences: China rise?
 			Taiwan Call
 			Currency manipulation, Trade practices
-			
+	TrumpIndia:
+		Visa, Limits on outsourcing, SelectUSA makes a dent in Make in India, Xenophoic attacks
+		Rethinking on Pivot to Asia, TTIP, less interest in Indo Pacific Ocen => China will happily fill the gap
+		Moving out of Afghanistan: Russia to come in.
+		Questions on India- USA detente.
 		USRussia:
 			Secretary of State- Tillerson Russian Friendly- Better Putin- Trump relations- Good for India
 			Reduce dependance of Russia on China
 			Russian concerns on China's Resurgence
-			Coldwar 2.0: PSIRMAIN:
+			Coldwar 2.0: PSIR:
 				Russian Hackers- Interference in Presidential Elections USA
 				Russia has no economic resources like USSR
 				But Putin: Not resisting upping ante against unipolar world- Military Power- Syria, Ukraine- evidence
@@ -1063,12 +1210,32 @@ def USACHINAMain:
 		DPP: Party in power not in favor of 1992 consensus
 		China blockading Taiwan- Membership in International Orgs
 			But allows limited Economic Trade membership, relations, functional Autonomy: Taiwan member of WTO- In name of Taipei
-
+def AustraliaMain:
+	Second favourite destination for Indian students
+	Trade: 20B$ much below potential
+	Indian ocean diamond democracies
 def EuMain:
 	BTIA to be lapsed in 2017
 	BTIA renegotiation
 	Kashmir violence, HR violations impact on ties
+def BrexitMain:
+	EEC:
+	Rome statute
+	Lisbon treaty
 def MiddleEastMain: def WestAsiaMain:
+	defining features of West Asia:
+	Soverign Funds: Saudi, UAE
+	Saudi: Looking for diversification- Less reliance on Oil
+	Palestine problem
+	Israel for growth, Tech
+	Terrorism
+	Freedom, Gender Issues, Democracy
+	Complex Rivalries
+	China trying to balance and engage with all.
+def TurkeyMain:
+	Erdogan Visit #News
+	Member of United for Consensus- UNSC seat
+	Close relation with Pak: Strategic Partnership, U4C, Pak's J&K claim, NSG- processed based for both Pak and India
 def UAEMain:
 	30% Indians- Largest expatriate community
 def SyrianCrisisMain:
@@ -1099,7 +1266,9 @@ def IsraelMain:
 	Israel: Continues occupation and settlement- Against UN principles
 		Israel for Greater Israel- Though agrees on 2 state solution- Actions suggest It doesn't
 	ICC: With pressure to Investigate crimes outside Africa- Israel offers a stage for ICC :)
-
+	Defence:
+		Heron TP: MALE drone: Medium Altitudinal Long Endurance drone
+		Phalcon: AWACS systems- RADARS
 def UNMain:
 
 def UNSCMAIN:
@@ -1142,7 +1311,7 @@ def NationalHealthpolicyMain:
 	Promise of 2.5% GDP spending in phased manner: But health not as fundamental right!
 		Such assurances made umpteen times from 1980
 	Focus from Sickness to Wellness
-	Leveraging private sector for strategic purposes
+	Leveraging private sector for strategic purposes: Strategic purchasing of services from Private
 	Key points:
 	Univestal Healthcare access
 	R&D in Tribal medicine
@@ -1150,6 +1319,19 @@ def NationalHealthpolicyMain:
 	Public health care cadre in each state
 	Universal access to drugs and diagnostics in public hospitals
 	Life Expectancy from 67.5 to 70
+	New:
+	National Health Standards Organization
+	National Health Information Network
+	National Digital Health Authority: EHR: Electronic Health Records- Universal Health Insurance- Employment
+	HR:
+	Expansion of Institutional Capacity
+		New courses, Cadres to fill gap
+		ASHAS can career track to ANM's
+		BSc in Community Health
+	Primary:
+	Secondary:
+	Teritiary:
+	
 	
 	
 	
@@ -1217,7 +1399,14 @@ def CKDMain:
 def TBMain:
 	TB capital of world, Highest TB and MDR TB
 	XDR TB: Extensively Drug Resistant
+	TDR TB: Totally DR
+	DR TB: Drug Resistant TB
+	MDR TB: Multi DR TB
+	HIV = 20X risk of TB
+	30 years of research only 2 drugs: Bedaquiline and Delaminid
 	#Bedaquiline #Blockbuster TB drug
+	Hence: Strict controls of their use, monitoring placed. Patients to pass certain criteria to secure their use.
+	#Countering drug resistance vs Right to life, health, access to life saving medicine.
 		18 Year old girl fight for BDQ
 		#EthicsMain
 		Issues:
@@ -1325,9 +1514,42 @@ def LeadershipMain:
 		Faith on members
 		Ability to place bets on them
 	Self Managing Teams
+def WhistleblowerMain:
+#BSF jawan on Social media:
+	Civilian institutions and military institutions are different
+	Discipline and command structure is much more vital in military cadres.
+	Venting out anger on social media- Might have security risks.
 ##################################################################################################
 AdministrationMain
 ##################################################################################################
+def AadharMain:
+	SC: Aadhar not mandatory for welfare schemes- Benefits can't be denied but Govt free to make it necessary for non welfare transactions like PAN, IT returns, Bank account etc.
+	Mass Surveillance vs Targeted Surveillance:
+	Intended use as of today
+	Use in future, by whom? Risks
+	Risks:
+		Foreign Govts, Terrorsits, Criminals getting biometrics
+		No Consent: Biometric data can be used without consent- Dead, Unconscious unlike smart card based authentication- where PIN has to be memorized.
+		ID theft
+		Fraud, Misrepresentation
+	Risks of centralized database:
+	Mitigation:
+		Minimal set of informaiton to establish identity: Name, Age, Gender, Address
+		Database not downloadable or searchable
+		Random number without knowledge: Cannot infer anything from number
+		Only YES or NO response to the transaction authentication
+		Transaction purpose not recorded: Only logs maintained will be with service provider. : But with bigdata analytics timestamps etc. No difficult to get purpose.
+		Lock facility : Disable authentication for a period of time.
+		
+	Benefits:
+		Targeted delivery: Plugging leakages
+		
+	Concerns:
+		No privacy and Data sharing law?
+	Does KYC really help?
+		Developed countries no KYC for SIM cards- KYC haven't stopped usage of SIM cards by terrorists and criminals in India
+	
+	Conclusion: Banning car argument as driving became risky!!- Aadhar is a very good tool but loopholes must be plugged in.
 def CooperationMain:
 	#Collective Targets, Shared Goals, Like BOSCH- x% allocation for working with other ministries
 def CorruptionMain:
@@ -1389,6 +1611,15 @@ OECD ES:
 		Skill & Access to education
 	Challenges:
 		Highly leveraged companies, NPA
+def EconomyChallengesMain:
+	def ExitProblemMain:
+		Chakravyuh
+		IBBI:  Insolvency and Bankruptcy Board of India
+	def RegulatoryBurdenMain:
+		8 Tribunals axed: 
+			Competition Appelate Tribunal -> National Company Law Appealate Tribunal
+			Cyber Appealate Tribunal
+			National Highways Tribunal etc.
 		
 def BankingMain:
 	def RBIMain:
@@ -1533,6 +1764,12 @@ def DigitalIndiaMain:
 		Govt Reasoning
 		Unlawfull assembly prevention
 		Rumor mongering
+	def DigitalDivideMain:
+		28% population have connections
+		2/3rds in Cities
+		Regional: Entire North East- ~5 Lakh. Delhi-2 Crore
+		Majority Narrow band <512 kbps
+		
 def DigitalLiteracyMain:
 	#Many only know the red and green buttons on cellphone- 
 	#We are talking about smartphone usage #Need for Digital Literacy before Digital India or Digital Economy
@@ -1556,6 +1793,12 @@ def InfrastructureMain:
 			Renewable sources unreliable: Can only supply homes
 			Industrial activity requires reliable, regular power supply
 			Like Telco towers need 24X7 power
+		T&D losses:
+		~60% in some cases
+		Why?
+			Laggards in adopting in Tech: Investments needed- UDAY
+			Theft: Technologies, Smart meters, sensors
+			IoT- Digital payments, Tamper proof
 def InfrastructureStatusMain:
 	Benefits? #Getmain
 	Ship building
@@ -1569,6 +1812,8 @@ def UrbanMain:
 	PMAY:
 	Need:
 		40% In cities by 2030? #Getmain
+		#Crippling infrastructure defecits in our urban areas not only cause hardships but also threaten the economic growth of India. Comment? #Getmain
+		
 	Lessons:
 		Minister state getting lionshare
 		Top down planning -> Bottoms up planning
@@ -1577,6 +1822,7 @@ def UrbanMain:
 			Funds according to plan pitchs and track record
 		Priorotization of projects
 			AMRUT: Drinking water connections, Sewerage, Non motorised transport- in order
+	
 		
 def InvestmentMain:
 	#Majority Infra financed by Govt or Banks- Markets very less
@@ -1590,10 +1836,30 @@ def InvestmentMain:
 		India- Expiry date to many BITs
 		New BIT model
 			Success? Not many have responded
+			Comparision with EU-Canada CETA: Comprehensive Economic and Trade Agreement
+			Features:
+			No MFN provision: Corner stone for non discrimination in Int. Economic Relations
+			5 yr domestic litigation before approaching international law
+			Protection from state going back on committments it made not present: Regulatory risks for investors
+			Multi lateral investement courts : Not present
 		Europe: EC BIT pending- 23 Individual BITs with EU countries -close to expiry
 	#FIPB: Foreign Investment Promotion Board- Scrapped in budget 2017- Removal of 1 approval layer : #EDB
+	def FDIMain:
+		MBRT: Multi Brand Retail Trade
+			Issues:
+			Livelihood of small shops
+			State Govt shops and establishment act- Not willing to allow MBRT
+			Advantages:
+			Technology
+			Food processing and Manufacturing sector
+			Local sourcing norms
+			Cons:
+			Chinese dumping- USA Walmart
+		MBRT in food processing- Yes
+		
 def TaxationMain:
 	#Robo audits: Data analytics- Financial DNA (Social media posts, ecommerce purchases, travel logs), CA History
+	
 def GSTMain:
 	Implementation Challanges
 		Short Time
@@ -1609,6 +1875,25 @@ def GSTMain:
 			Compliance burden
 			Interference, Competition commission
 			Resource burden
+	GST Council:
+		Union Finance Minister- Chair; Minister of State Finance; State ministers
+		Responsibilities:
+		GST rates, Exemptions, Model laws.
+		Modalities:
+			CGST+SGST : Intra state
+			IGST : Inter state trade
+			UTGST+CGST : Intra UT
+			State for GST purpose includes all UTs with Legislatures
+			UTGST for UT without Legislature. As Parliament can pass any law for UT (Even in state list)- UTGST is an ordinary law?
+		Issues
+		Any decision needs 3/4th voting; Center has 1/3, states 2/3rd. So Consensus must.
+		Every state has equal votes. Sikkim and UP has same number of votes #Federalism? 
+			Fifa like crisis?
+		No Independant Dispute Resolution Authority? 
+		
+		
+		UT role?
+		
 		
 	
 def CorporateGovernanceMain:
@@ -1652,6 +1937,14 @@ def CompaniesActMain:
 def EconomicRisksMain:
 	#Economic risks -> Political Risks: 89 Hyperinflation -> Argentinian Riots, 91 Reforms -> Labor unrest, Unemployment ->Arabspring
 	def NPAMAIN:
+		Stats: Total 9%, 12% in PSB's
+		Cause:
+			Economic Times, Turmoil
+			Political, Bureaucratic Interference in Management- Commercial decisions
+			Fear to take a haircut: Writing off bad loans not taken- Fear of CVC, CAG CBI etc. #Excessive vigilance results. PCA act prior Govt approval
+				Empower them- Process of Minutes of Meeting, Articulating rationale, Pros and Cons as risk mitigation
+		Need:
+		Basel III norms deadline March 2019
 		steps:
 			Security Interest and Recovery of Debt Laws and Miscallaneous Provisions.
 	def BadbankMain:
@@ -1713,6 +2006,7 @@ def MSMEMain:
 				Credit problem solved
 				Greater discipline on corporates to clear bills fast
 def StartupsMain:
+	#Transform our youth to job givers from job seekers
 	Definition of startup:
 		1. < 5 year old
 		2. < 25 Cr turnover in any preceding year
@@ -1730,6 +2024,8 @@ def InequalitiesMain:
 	Oxfam report:
 		8 Richest people own ~ 5wealth of rest 50% population
 		India- 1% holds 58% Indian population
+		Reports pn 1% wealth increasing at the expense of 99%
+		HDR: 27% loss in HDI score due to various forms of inequality
 	Inequalities and challenge to democracy
 		Aristotle: Democracy
 			Rich and poor are equal in one dimension -Right to vote
@@ -1745,6 +2041,8 @@ def InequalitiesMain:
 		Started on a fairly egalitarian slate
 		No barriers: Rich can be part of lower house, poor in upper house
 		Functions well when inequalities are less and chance for self improvement is open
+	Regional inequalities:
+		Pace of liberalization reforms. Land reforms
 def GDPMain:
 	New calculation methods
 	Accuracy of GDP numbers
@@ -1754,10 +2052,24 @@ def GDPMain:
 	ADP = GVA + Indirect taxes- Subsidies
 def LiberalizationMain:
 	Rao-Singh duo finess in handling transition seen when compared to post communist Russia
+	Liberalization not preceded by strong investments in universal health and education: -> Inequalities
 ##################################################################################################
 IndustriesMain
 ##################################################################################################
 def AgricultureMain:
+	Problems:
+		High regulation
+		Poor market linkages
+		Opaque markets
+		Poor risk management instruments available for farmers
+	Steps:
+		NAM
+		PMFBY
+		Neem Urea
+		Krishi Sinchai Yojana
+		Solar pump subsidy
+		100% food fdi
+		Cold chains sanctioned
 def AgriMain:
 	BT cotton by Punjab Agricultural University -1st in India
 	Cry1Ac gene, Bollworm resistant, Can reuse- One time cost- No terminator genes
@@ -1782,6 +2094,9 @@ def AgriMain:
 			Sustainability, Input dependency, Robust tolerant crops, yield, Reduce pressure on fragile agri ecosystems, conservation,natural organic
 		#News 1st IAC: International Agrobiodiversity Conference
 		Climate change, Sustainable Agriculture foundation
+	#LoanWaiver:
+	Loan waivers are great palliatives but cannot cure more fundamental and systemic issues plaguing agriculture
+	
 def ManufacturingMain:
 	Solar panels: Agressive tarriff bidding -3 rs- Chinese imports competitive vs Indian panel manufacturers
 		Oversupply in China
@@ -1839,6 +2154,7 @@ def FoodProcessingMain:
 	2nd Largest arable land: 1st USA
 	2nd Largest food producer: 1st China
 	1st in Milk, Cane, Pulses, Tea
+	2nd Largest Fruits and Veg producer but only 2.2% is processed
 	Importance:
 		Alternative and Supplement to Agriculture Employment
 		Value addition: Farmer lives
@@ -1847,6 +2163,9 @@ def FoodProcessingMain:
 		Quality norms: Exports
 	Needs:
 	Steps:
+	Cold Chains:
+		101 cold chain projects sanctioned: Grant in Aids + Private investment
+		90% existing cold chains for Potatoes
 	Successstories:
 	Wayforward:
 def PackagingMain:
@@ -1913,6 +2232,17 @@ EnergyMain
 ##################################################################################################
 def EnergySavingsMain:
 	QuotesMain: ENERGY SAVED IS ENERGY PRODUCED
+def RenewablesMain:
+	Progress:
+		#Crossed 50 GW- doubled in last 5 years
+		#>10 GW from solar -hardly anything before 5 years.
+	Renewables getting more traction:
+		Storage technology improving
+		Smart grid technologies for intermittent power source handling.
+	#43% rural house holds use Kerosene- 37,000 cr / year subsidy burden. 2- 4 Solar lanterns per house costs only 4,400 cr
+def BiodieselMain:
+	Skewed taxation: Biodiesel costlier than diesel
+	APMC act- Intra state trade costly
 	
 ##################################################################################################
 EnvironmentMain
@@ -1937,6 +2267,23 @@ def PoullutionMain:
 			Last mile connectivity, Safety
 		Data gathering: Air Quality Index, SBS survey
 	#Training compulsory to Truck and Bus drivers on fuel efficiency
+	def BSIVShiftMain:
+		SC: No sale of BSIII post March 31st
+			People health is important than any industries commercial interests.
+		Auto fuel policy
+		#One India One Fuel
+		Issues:
+		BSII to BS III shift -deadlines stretched for months.
+		Policy laid deadline before 2 years.
+		Center assurances created some confusion.
+		Verdict: Allowing no relaxation- important for BSIV to BS VI leapfrogging  by 2020
+		
+		Inventory clearances: Export, Upgrade
+		Ensure quality fuel -so catalytic converters are not damaged
+		50-60% pollution is from vehicles aged >10 years
+		
+		Short term relief. As percapita income increases number of new vehicles is going to offset any gains from technology upgrades.
+		
 	def CPCBWHODisagreementMain:
 		CPCB: WHO 10/20 world's most polluted cities in India is wrong
 		Why?
@@ -1947,6 +2294,9 @@ def PoullutionMain:
 		PMUY: PM Ujjwala Yojana- Target of 1.5 Cr LPG connections achieved, 70% Coverage
 			#Women Empowerement #Health #UNFCCC
 Ganga Yamuna as legal persons: by Uttarakhand HC
+	Appointed Director Namami Gange, CS of Uttarakhand, Advocate Gen of Uttarakhand as advocates for river
+	Right to be sued or Right to sue.?
+	
 Allahabad HC ruled Rama Lalla as a legal person
 def GHGMain:
 	Inland ponds: Loses CO2 absorption capacity while increased Methane output after temp rise
@@ -1988,12 +2338,15 @@ def WaterMain:
 		Minimize pollution maximize 3R
 		in SE Asia revenues paid off from fertilizers recovered?
 		Water scarcity huge: APEC, India, China
+			Lack of water -> Forced to use unhygenic sources
 		Singapore Example:
 			#Newater supplies 30% of singapore: Industry use main
 		Greater support from Municipalities, Local bodies
 			Lack of financial, human resources
 			Enforcement of laws: dumping, toxins
-		
+	Water Recharge:
+		Sandmining
+		Deforestation
 def SBMMain:
 	Swachh Bharat Mission
 	UNICEF Twin pit toilet
@@ -2070,7 +2423,17 @@ def WesternGhatsMain:
 	Goa: Loss of ecology - Illegal mining and construction
 	#Kerala CM: "We will not allow this at the expense of livelihoods"
 	#EcologyVsDevelopment
-	
+def DisasterMain:
+def HeatwaveMain:
+	DM actions?
+	Action plan:
+		Color coded early warning system: Red alert >6 degrees
+		MNREGA works shoudn't be assigned on those days
+		Extra beds with ventilation and coolers in Hospitals
+		First aid ready
+		Sensitization of public, schools etc.
+		Supply of ORS in busstops, railway stations
+		Chalivendrass
 def ForestFiresMain:
 	#Disaster
 	Reasons for fire
@@ -2122,6 +2485,10 @@ def DefenceMain:
 		Strategic Partner
 		
 	DAC: Defense Aquisition Council headed by Defence Minister #Prelims
+	Needs:
+	Lean, Agile army
+	Roll on defence budget for better aquisition instead of surrendering unspent allocations every year
+	Pefromance audits for every non combatant unit
 def DefenceIndustryMain:
 	AWACS: Airborne Warnings and Control Systems Eyes in Air
 		Important with China and Pak modernizing their airforce
@@ -2146,6 +2513,17 @@ def MilitaryCadresMain:
 		Sensitive
 		Should not leave to Civilian Bureacracy: Vetting to be done with Parlimentary Standing Committee on Defence
 		or Bipartisan Committees like CVC, CBI chief selection
+def DoctrinesMain:
+def NFUDoctrine:
+	NFU but assured massive retaliation incase of MAJOR ATTACK on India or Indians anywhere else by Biological or Chemical weapons
+	Doctrine responses ?: 
+	wrt VX agent use by NKorea- Political assasination
+	Syria's use of chemical weapons against rebels, civilians: Obama threatened with Military action- backed off later
+def MADMain:
+	Mutually Assured Destruction
+	1960 David Brennan coined
+	Doctrine of detterance which holds full scale use of N weapons by one against other is a non starter if other side also possess capability of retaliation.
+	Cold war: Prevented direct faceoffs but moved war into proxy areas
 	
 def PoliceMain:
 	SMART Police
@@ -2216,6 +2594,9 @@ def TerrorismMain:
 		
 		#Serious lapse on investigation front
 		#Innocent framing- Raw material for ISIS like elements, hatredness
+	Trends in Terrorism:
+		Ramming by vehicles: Car, Planes turned into weapons!
+		Lone wolf attacks
 def RadicalsMain:
 	ISIS and Indian Islam differences?
 		ISIS preaches one size fits for all puritanical
@@ -2235,6 +2616,17 @@ def RadicalsMain:
 ##################################################################################################
 ScienceMain
 ##################################################################################################
+def ResearchUtilityMain:
+	Pure Sciences:
+		Had Newton used utilitarian approach we may not had G laws meaning no cars, no satellites
+		Ramanujan theories helping us understand blackholes. Did he envisaged back then? NO?
+		Not all research / invention will have utility outlined beforehand.
+		#INO: Indian Neutrino Observatory
+def NeutrinoResearchMain:
+	What is Neutrino?
+	Neutrino Astronomy
+	Neutrino- N weapon sniffer?
+	
 def IndiansinScienceMain:
 	Solexa Sequencing: Knighthood for Shankar Balasubramanian
 		Human genome sequencing 1 or 2 days < 1000 pounds
@@ -2252,6 +2644,13 @@ def IPRMain:
 		India on priority watch list
 		Section 3(d) of Patents act 2005: Compulsory Licensing?
 			Big Pharma fears- Risk of Other developing countries adopting the same
+	PRO: Performance Rights Org
+	#News #Ilayaraja- SPB
+	Rights sold to to PRO's who collects fees from every performance -> ROyalties to creators
+	IPRS: Indian Performing RIghts Society
+	PRO's have global partenerships with foreign PROs shares revenues.
+	CIPAC: Confederation of Authors and Composers Societies : Paris based Not for profit- Global PRO regulator
+	IPRS is poor so creators has to register in foreign PRO's
 def CRISPRCAS9Main:
 	Patent fights
 	Different norms US, Euro patent regulations
@@ -2299,6 +2698,11 @@ def SocialSecurityCodeMain:
 		Migratory nature
 		Daily wage earneers difficult to contribute.
 		Burden on firms- which are already struggling -> May force more informalization
+	EPFO reforms:
+		ASHA, Anganwadi etc. scheme workers to get social security net
+		Payment by any bank: Only SBI till date- causing delays and transaction charges.
+	CBT: Central Board of Trustees
+		Union Labor minister- Chair, Secy- Vice chair
 		
 ##################################################################################################
 ArtandCultureMain
@@ -2309,7 +2713,24 @@ Mahi Ink: Manuscripts in Assam, Sancipat
 ##################################################################################################
 PreMain
 ##################################################################################################
+EEUMain: EEurasian Economic Union: AKKBR: Armenia, Kyrgyzstan, Kazakstan, Belarus, Russia
+
+Global zero campaign: International non partisan group of world leaders working for Nuclear weapon elimination
+
+Graphene Oxide- membranes in Desalination
+
+BSIII-BSIV Difference #Getmain
+
+WWF: WOrld Wide Fund for Nature -Organizes Earth hour
+
+Titu Mir: Peasants movement leader in Bengal- Wahabism
+
+Synlight: Germany artificial sunlight from lights to focus on a small area. Objective: Searching for novel ways to make Hydrogen
+
+Deoband #Getmain
+
 Chinchorro: Chile, Peru ancient civilization- Oldest mummies, 2,000 years before Egype ie : 10,000 BC
+
 Indian Missile Program: IGMDP: Integrated Guided Missile Development Program
 	ICBM: Min 5,500 KM range- Agni V-5,000-8,000- ICBM, Agni-4- IRBM: Intermediate Range Ballistic Missile
 	Prithvi:
@@ -2319,8 +2740,10 @@ Indian Missile Program: IGMDP: Integrated Guided Missile Development Program
 	BRAMHOS: 
 	Akash: SAM : Supersonic
 KoleWetlands: Ramsar- Kerala, Thrissur
+
 Sultanpur National Park: Close to Gurgaon, Birds, Indira Gandhi
 	Saurus Crane (VU): Red black head - Mate for life- Fidelity
+
 Kaziranga: Indian one horned Rhino- Upgraded to Vulnerable from Endangered :) #News
 
 def PolityMain:
@@ -2333,10 +2756,11 @@ def PolityMain:
 	Parliamentary Secretaries: #News
 		Office of profit? #AAP MLA's
 		Berths for political convenience
+	MP became CM: What post goes first? #News #Getmain
 			
 def ArtsMain:
 	Urur Olcott Kuppam Vizha- A place for all non classical and marginalised art forms
-	
+	Baruni festival: Tripura, Bangladesh border
 def TribalDancesMain:
 	Tribe   	State      Dance
 	Chakma- 	Tripura-	BIJU
@@ -2381,6 +2805,7 @@ def PrevilagesCommitteMain:
 	Roja suspension
 	Notice to Smriti Irani #News
 INO: Indian Neutrino Observatory to come up in Theni- caughtup in Environment Clearance ordered by NGT again
+Xi'an: Old silk route starting point.
 ##################################################################################################
 EnglishMain
 ##################################################################################################
@@ -2391,9 +2816,15 @@ def PhrasesMain:
 	Free will or Free fall?
 	
 	We cannot solve our problems with the same thinking we used when we creating them
+	
+	#Education need not be always about making a student perfect but also make student capable of appreciating and accepting imperfections
+	
+	Indisputably
+	If left unchecked
 ##################################################################################################
 EssayMain
 ##################################################################################################
+XENOPHOBIA
 Racial attacks: Srinivas Kutchibotla shot dead in Kansas
 	Positive: A white men who stood up against the killer taking a bullet on his chest
 	We saw evil but also goodness
@@ -2405,6 +2836,7 @@ Racial attacks: Srinivas Kutchibotla shot dead in Kansas
 ##################################################################################################
 IdeasMain
 ##################################################################################################
+Innovations for 
 def KheloIndiaMain:
 	National level sporting culture in schools
 	
