@@ -13,6 +13,14 @@ def GanhiMain:
 		Champaran Agrarian Act- Post Champaran Satyagraha
 def AmbedkarMain:
 	#News
+	Political Thought
+	Kashmir
+	Democracy: Political democracy cannot last unless there lies at the base of it Social Democracy
+		Political Democracy = Social and Economic Democracy must
+	Union of Trinity: LIFE, Liberty, Equality, Fraternity
+		Liberty cannot be divorced from Equality, Equality cannot be from Liberty, Neither does Liberty and Equality from Fraternity
+		Equality without liberty kills Individual initiative
+		Liberty without equality yields supremacy of few over many
 def NehruMain:
 	Dreamed of Prosperous India which is INDIVISIBLE
 	Inequality declined under his watch? #getmain
@@ -1127,6 +1135,11 @@ def PendencyMain:
 			Serving sentence, penalties, loss of constitutional rights all because of an invalid law.
 		Cannot be undone: example demonetization, Aadhar
 		CJI: Sole SC roster master: Decides on curation of benches, priorotization
+def RightsBasedApproachMain:
+	Why Rights?
+	Rights vs God: Not killing because God said No vs Not killing because the other person has a right to live.
+	Once people understand culture of rights. They understand what they owe to each other.
+	Rights: Voice to powerless, Necessary for society of equals
 def FundamentalRightsMain:
 	# Animal Welfare Board of India vs Nagaraja
 	SC: Extended Article 21 to Animals
@@ -1505,6 +1518,7 @@ def ChinaMain:
 			But Pak remains pivot-Hence India cannot expect much change in China's stance to suit Indian interests
 		
 	#Rapid expansion of marine corps: SCS issure, Gwadar, Djibouti- MSR initiative. India?
+	Illegal Chinese vessels fishing in International seas.
 def PSIRMAIN:
 	Unipolar Impact:
 		Regional Nazism, Communism- territorially limited to Islamism (Clash of civilizations)- No boundaries or borders
@@ -2398,6 +2412,13 @@ def DigitalRightsMain:
 	Right to erase
 	Right to privacy
 	Right to Speech and Expression
+	
+	#Neural engineering advances -Need for rights
+		Right to Cognitive Liberty
+		Right to Mental Privacy
+		Right to Mental Integrity
+		Right to Psychological COntinuity
+		Threat: Invasive brain imaging, Neuro marketing, Brain decoders
 def DigitalLiteracyMain:
 	#Many only know the red and green buttons on cellphone- 
 	#We are talking about smartphone usage #Need for Digital Literacy before Digital India or Digital Economy
@@ -2415,6 +2436,16 @@ def InfrastructureMain:
 			Old coaches
 			Poor Signalling
 			Heavy traffic
+		Freight:
+			Loosing to Road- USA ~40% on rail despite road and water connectivity
+			Weak Signalling infrastructure
+			Congested route: Delhi, mumnai, Chennai
+			Maintenance of Rails
+			Less investment into critical infra
+			High charges- Ad hoc charges
+			No guranteed delivery- time
+		Dedicated Freight Corridors
+		PFT: Private Freight Corridors
 	def ElectricityMain:
 		MiniGrids:
 			Why?
@@ -2765,7 +2796,11 @@ def AgriMain:
 		AId small and tenant farmers: Finance to adopt these technologies
 		
 		Drip irrigated area < 10% of net sown area
-		
+	FarmerSuicidesMain:
+		Increasing- Increasing Input costs - Increasing Income Uncertainity- Climate change- Back to Back droughts
+		MSP benefit not reaching farmers
+		Bankruptcy and indebtedness- 40% reason behind suicides
+		90% suicides males -> Burden on women = Gender sensitive
 		
 def ManufacturingMain:
 	Solar panels: Agressive tarriff bidding -3 rs- Chinese imports competitive vs Indian panel manufacturers
@@ -2785,6 +2820,15 @@ def TextilesMain:
 	Zero effluent scheme: Textile hub in Tirupur- into Financial Crisis after implementation center has to rescue with grants
 	#Example of financial Burden #EnvironmentComplianceCosts on Industries
 def RealEstateMain:
+	Real Estate Regulation and Development Act came into effect
+		Establishment of RERA and Adjudication tribunals by states
+		70% Money in seperate Escrow account- Use only to specific projects
+		Registration with RERA mandatory before sale/ Advertisement
+		60 days timebound justice by Tribunals
+		All permissions clearances mandatory before sale.
+		Builder responsible for 5 years
+		To facilitate: Major concern of delays /Redtape by Single window clearance systems
+	Any Law's success is contingent to its effective implementation.
 	Importance:
 		Largest Employer after Agriculture
 		Size?
@@ -3078,9 +3122,19 @@ def WaterMain: #VVIMPMAINS
 	Wayforward:
 		Neither privatization nor Governemnt : #Trusteeship needed
 		#Success in Rayalaseema: Farmers understood the need and shifted to high value crops and Drip in big way
-	
+	#Telangana Four waters concept:
+		Rain Water
+		Surface Water
+		Ground Water
+		Soil Moisture level high
+		Use of earthen Material, No cement, Percolation tanks, Contour trenches, Staggered trenches
+		Farmers now reap 3 crops a year
 	#Soda companies depriving villages drinking water.
 	#Industrial greed polluting holy rivers #21% diseases are water borne
+	#Drip Irrigation:
+		40% reduced costs; 20% more productivity
+	#Mulching: cover land with Foilage
+	Rain guns
 def NWFLMain:
 	National Water Framework Law:
 	#State holds water in public trust for people. It is obligated to protect water as a trustee for all from few
@@ -3338,6 +3392,9 @@ def KashmirMain:
 	Sinha Panel:
 		Most Kashmiris want one time political sentiment
 		Visits of Govt reps seen as faracial exercises
+	Wayforward:
+		#COnfidence building
+		Army's Super 40 initiative: Coaching for JEE -Valley students
 def TerrorismMain:
 	3 fronts: Land, Water, Air
 	Investigation:
@@ -3528,6 +3585,9 @@ def EpicsMain:
 ##################################################################################################
 PreMain
 ##################################################################################################
+SAGE: Strategic Advisory Group of Experts- Advisory group for WHO on Vaccines and Immunization
+	Concerned with not just Child vaccines- But all vaccine preventable diseasesfam
+
 Increased Flood risk: Himalayan rivers- Like Kosi- Frequent change of parth.
 	Himalayan rocks softer than southern -> Sand  -> fills streams -meanders
 
@@ -3721,6 +3781,7 @@ Crime and Justice Research Institute)
 EnglishMain
 ##################################################################################################
 def PhrasesMain:
+	#World is full of good and honest people. System should faciliate honest living. India- Make honest living possible only way to address corruption
 	Shraddanjali (Homage) to Karyanjali (Homage /paying respects through work)
 	Speck in the ocean
 	#There is more to be won in peace than in war
